@@ -1,0 +1,29 @@
+.table1{
+    margin-top: 20%;
+    border: 5px;
+    color: pink;
+}
+.table2{
+  
+    border: 5px;
+    color:black;
+}
+.header{
+    color: aqua;
+    padding: 0%;
+    height: 30px;
+    
+}
+p{
+    padding: auto;
+    height: 50;
+    color: rgb(11, 15, 7);
+    text-decoration: none;
+}
+a{
+    height: 100px;
+    width: 100px;
+    padding: auto;
+    color:black;
+    
+}
